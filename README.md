@@ -14,3 +14,5 @@ iki boşluk
 gerekir
 
 [şu site güzel] https://www.markdownguide.org/
+
+<span color:red> kırmızı </span>
