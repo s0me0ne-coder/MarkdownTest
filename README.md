@@ -7,3 +7,8 @@
 > alıntı
 > her satırı
 > için alıntı işareti ve boşluk bırakmalısın
+
+genellikle bir boşluk yapmak için
+iki boşluk
+
+gerekir
