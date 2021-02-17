@@ -12,3 +12,5 @@ genellikle bir boşluk yapmak için
 iki boşluk
 
 gerekir
+
+[şu site güzel] https://www.markdownguide.org/
